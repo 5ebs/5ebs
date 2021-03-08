@@ -12,8 +12,12 @@ const Giammi = {
     serverSoftware: ["Node.js", "Express.js", "MongoDB", "Firebase"]
         },
   languages: ["Italian", "English", "Spanish"],
-  currentFocus: "Looking for new opportunities as ...."
+  currentFocus: "Looking for new opportunities as a software developer"
 }
 ```
 
+📫 Contact me on: 
+    - [LinkedIn](https://www.linkedin.com/in/gianmarco-ebeling-856020135/) 
+    - [Medium](https://ebelinggianmarco.medium.com/) 
+    - [Twitter](https://twitter.com/Jj_Ebeling)
 
