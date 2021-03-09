@@ -6,7 +6,7 @@
 ### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Giammi = {
+const GIAMMI = {
  programmingSkills: {
     clientSoftware: ["Bootstrap", "JavaScript", "JSON", "React", "Redux"],
     serverSoftware: ["Node.js", "Express.js", "MongoDB", "Firebase"]
