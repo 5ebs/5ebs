@@ -7,7 +7,7 @@
 
 ```javascript
 const giammi = {
- name: "Gianmarco",
+ fullName: "Gianmarco Ebeling",
  programmingSkills: {
     clientSoftware: ["Bootstrap", "JavaScript", "JSON", "React", "Redux"],
     serverSoftware: ["Node.js", "Express.js", "MongoDB", "Firebase"]
