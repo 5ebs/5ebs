@@ -13,7 +13,7 @@ const giammi = {
     serverSoftware: ["Node.js", "Express.js", "MongoDB", "Firebase"]
         },
   languages: ["Italian", "English", "Spanish"],
-  currentFocus: "Building the next big thing"
+  currentFocus: "Creating 'the next big thing' "
 }
 ```
 
