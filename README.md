@@ -9,7 +9,7 @@
 const giammi = {
  fullName: "Gianmarco Ebeling",
  programmingSkills: {
-    clientSoftware: ["Bootstrap", "JavaScript", "JSON", "React", "Redux"],
+    clientSoftware: ["JavaScript", "React.js", "Next.js", "Typescript"],
     serverSoftware: ["Node.js", "Express.js", "MongoDB", "Firebase"]
         },
   languages: ["Italian", "English", "Spanish"],
